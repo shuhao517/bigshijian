@@ -1,0 +1,15 @@
+/* 底部区域定位 */
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.layui-footer {
+    text-align: center;
+    font-size: 12px;
+}
+
+
+/* 左侧导航栏样式 */
